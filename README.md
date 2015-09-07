@@ -13,3 +13,5 @@ Multiple packages were used in the notenook. These packages were imported into p
 The first two packages are for combutation and data analysis, and the other two packages are for data visulaization.
 
 [id]: https://www.kaggle.com/c/titanic/data
+
+Predicting the likelikelihood of survival using scikit learn package will be discussed in future posts.
